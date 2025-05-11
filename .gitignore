@@ -1,0 +1,14 @@
+# Abaikan semua isi folder lda_model_arxiv_cs
+lda_model_arxiv_cs/
+
+# Abaikan semua isi folder bertopic_model_arxiv_cs_final_refined
+bertopic_model_arxiv_cs_final_refined/
+
+# Abaikan semua file dan folder di dalam folder backup
+backup/
+
+# Abaikan file arxiv_embeddings_50k_for_full_script.npy
+arxiv_embeddings_50k_for_full_script.npy
+
+# Abaikan file arXiv_scientific dataset.csv
+arXiv_scientific dataset.csv
