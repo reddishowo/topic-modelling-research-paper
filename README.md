@@ -5,13 +5,13 @@ This repository contains the code and documentation for a comparative study of t
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Discussion Points](#discussion-points)
-- [Contributing](#contributing)
-- [License](#license)
+- [Requirements](#requirements) (tbc)
+- [Installation](#installation) (tbc)
+- [Usage](#usage) (tbc)
+- [Results](#results) (tbc)
+- [Discussion Points](#discussion-points) (tbc)
+- [Contributing](#contributing) (tbc)
+- [License](#license) (tbc)
 
 ## Project Overview
 This project compares two topic modeling approaches:
